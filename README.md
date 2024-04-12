@@ -1,5 +1,5 @@
-# Masters Research Project
-**Abstract < \br>
+# Masters Research Project  
+**Abstract  
 While the phenomena of large increases in gun sales following changes in aggregate demand
 factors are well documented, similar conclusions about the behavior of the ammunition market in
 response to such alterations remain undetermined. The domestic ammunition market has received
